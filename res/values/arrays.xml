@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array  name="aokp_clock_backgrounds_drawable"  translatable="false">
+        <item>appwidget_aokp_sgt7_clock_dial</item>
+        <item>appwidget_aokp_sgt7_logo_clock_dial</item>
         <item>appwidget_aokp_blue_clock_dial</item>
         <item>appwidget_aokp_pink_clock_dial</item>
         <item>appwidget_aokp_white_clock_dial</item>
