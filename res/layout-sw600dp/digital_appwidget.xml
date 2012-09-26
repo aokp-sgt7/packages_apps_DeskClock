@@ -14,7 +14,7 @@
             android:id="@+id/timeDisplayImage"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="right"/>
+            android:layout_gravity="left"/>
 
         <TextView
             android:id="@+id/am_pm"
@@ -37,6 +37,8 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textColor="@color/time_text_color"
-        android:textSize="@dimen/date_text_size" android:singleLine="true"/>
+        android:textSize="@dimen/date_text_size" 
+	android:singleLine="true"
+	android:layout_marginTop="-5dp"/>
 
 </LinearLayout>
